@@ -1,0 +1,1 @@
+Gitpitch slides about exploratory testing
