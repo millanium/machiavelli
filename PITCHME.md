@@ -6,6 +6,8 @@
 "It is, of course, difficult to have the machine check how well the program matches the intent of the programmer without giving a great deal of information about that intent. If we had some simple way of presenting that kind of information to the machine for checking, we might just as well have the machine do the coding. Let us not forget that complex logical operations occur through a combination of simple instructions executed by the computer and not by the computer logically deducing or inferring what is desired.”
 Jerry Weinberg
 
++++
+
 ## A bit of history
 
 Cem Kaner had coined a term—”exploratory testing”—to represent the opposite of scripted testing.
@@ -20,6 +22,8 @@ Session-Based Testing
 - testing in sessions called charters 45min
 
 Charter is mission for the session, contract.
+
+---
 
 ## How to organize Exploratory testing?
 
@@ -68,6 +72,8 @@ ISSUES
 -----------------------------------------------
 #ISSUE
 
+---
+
 ## How to organize Exploratory testing?
 
 Thread-Based Testing
@@ -76,11 +82,15 @@ Organized threads of activity
 Form of thread, thread is not necessarily a session
 Thread is a set of one or more activities intended to solve a problem or achieve an objective.
 
++++
+
 Test Facilities
 
 * Power meter calibration method
 * Backup test jig validation
 * Create standard test images
+
++++
 
 Test Strategy
 
@@ -96,6 +106,8 @@ Test Strategy
 * Compliance Testing
 * Test Protocol V1.0 doc.
 
++++
+
 Test Management
 
 * Change protocol definition
@@ -104,6 +116,8 @@ Test Management
 * Bug reporting protocol definition
 * Bug triage
 * Fix verifications
+
+---
 
 ## How to generate test charters?
 
@@ -116,10 +130,14 @@ What is the goal you want to achieve with the test session?
 * Deep Coverage Session - Describe details of your tests
 * Closure Session - Get ready to release
 
+---
+
 ## How to get test ideas?
 
 * http://apps.testinsane.com/mindmaps/Page/1/views_desc
 * http://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html?spref=tw
+
+---
 
 ## How to end the session?
 
@@ -128,6 +146,8 @@ What is the goal you want to achieve with the test session?
 * Obstacles - What issues prevented you testing?
 * Outlook - What still needs to be done?
 * Feelings - What do you feel about the testing?
+
+---
 
 ## What tools to use?
 
