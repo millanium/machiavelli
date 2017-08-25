@@ -1,7 +1,7 @@
 ![](http://static.bbci.co.uk/schoolradio/images/ic/qe//width/960/schoolradio/history/since1948/space/space_exploration.jpg)
 ---
 
-## What is Exploratory testing?
+## Exploratory testing?
 
 "It is, of course, difficult to have the machine check how well the program matches the intent of the programmer without giving a great deal of information about that intent. If we had some simple way of presenting that kind of information to the machine for checking, we might just as well have the machine do the coding. Let us not forget that complex logical operations occur through a combination of simple instructions executed by the computer and not by the computer logically deducing or inferring what is desired.”
 Jerry Weinberg
@@ -25,56 +25,13 @@ Charter is mission for the session, contract.
 
 ---
 
-### How to organize Exploratory testing?
+### Organize Exploratory testing?
 
-CHARTER
------------------------------------------------
-Create a test coverage outline and risk list for N26 Credit
-#AREAS
-
-OS | iOS Android
-Build | 3.5
-Strategy | Exploration & Analysis
-START
------------------------------------------------
-8/25/17 15:00pm
-TESTER
------------------------------------------------
-Martyna Wojna
-Ilke Kelesoglu
-TASK BREAKDOWN
------------------------------------------------
-#DURATION
-short
-#TEST DESIGN AND EXECUTION
-100
-#BUG INVESTIGATION AND REPORTING
-0
-#SESSION SETUP
-0
-#CHARTER VS. OPPORTUNITY
-100/0
-DATA FILES
------------------------------------------------
-TEST NOTES
------------------------------------------------
-Operating Systems:
-Android
-iOS
-General Features:
-
-Installation, N26 Credit, AuxMoney Credit, 
-
-BUGS
------------------------------------------------
-#N/A
-ISSUES
------------------------------------------------
-#ISSUE
+![](https://lh6.googleusercontent.com/OpMOeoF5eo89g7y2xJH6WVALewHHJ3E5mV6Gwvqvbg6d0P8FMFLhzCZOVvtBdvxm6s6TPbSFwzVk3-E=w1920-h1032-rw)
 
 ---
 
-## How to organize Exploratory testing?
+## Organize Exploratory testing?
 
 Thread-Based Testing
 
@@ -119,7 +76,7 @@ Test Management
 
 ---
 
-## How to generate test charters?
+## Generate test charters?
 
 What is the goal you want to achieve with the test session?
 
@@ -132,7 +89,7 @@ What is the goal you want to achieve with the test session?
 
 ---
 
-## How to get test ideas?
+## Get test ideas?
 
 * http://apps.testinsane.com/mindmaps/Page/1/views_desc
 * http://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html?spref=tw
