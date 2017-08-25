@@ -32,7 +32,9 @@ Cem Kaner had coined a term — ”exploratory testing”—to represent the opp
 
 Exploratory testing is unscripted, unrehearsed testing. Its effectiveness depends on several intangibles: the skill of the tester, their intuition, their experience, and their ability to follow hunches.
 
-## Organize Exploratory testing?
+---
+
+## Structure
 
 Session-Based Testing
 - structured exploratory testing
@@ -40,15 +42,14 @@ Session-Based Testing
 
 Charter is mission for the session, contract.
 
----
++++
 
-## Organize Exploratory testing?
-
+## Structure
 ![](https://lh6.googleusercontent.com/OpMOeoF5eo89g7y2xJH6WVALewHHJ3E5mV6Gwvqvbg6d0P8FMFLhzCZOVvtBdvxm6s6TPbSFwzVk3-E=w1920-h1032-rw)
 
 ---
 
-## Organize Exploratory testing?
+## Structure
 
 Thread-Based Testing
 
@@ -58,7 +59,7 @@ Thread is a set of one or more activities intended to solve a problem or achieve
 
 +++
 
-Test Facilities
+## Test Facilities
 
 * Power meter calibration method
 * Backup test jig validation
@@ -66,7 +67,7 @@ Test Facilities
 
 +++
 
-Test Strategy
+## Test Strategy
 
 * Accuracy Testing
 * Sampling strategy
@@ -82,7 +83,7 @@ Test Strategy
 
 +++
 
-Test Management
+## Test Management
 
 * Change protocol definition
 * Build protocol definition
