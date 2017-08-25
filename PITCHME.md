@@ -3,19 +3,36 @@
 
 ## Exploratory testing?
 
-"It is, of course, difficult to have the machine check how well the program matches the intent of the programmer without giving a great deal of information about that intent. If we had some simple way of presenting that kind of information to the machine for checking, we might just as well have the machine do the coding. Let us not forget that complex logical operations occur through a combination of simple instructions executed by the computer and not by the computer logically deducing or inferring what is desired.”
+"It is, of course, difficult to have the machine check how well the program matches the intent of the programmer without giving a great deal of information about that intent.
 Jerry Weinberg
 
 +++
 
+## Exploratory testing?
+
+If we had some simple way of presenting that kind of information to the machine for checking, we might just as well have the machine do the coding.
+Jerry Weinberg
+
++++
+
+## Exploratory testing?
+
+Let us not forget that complex logical operations occur through a combination of simple instructions executed by the computer and not by the computer logically deducing or inferring what is desired.”
+Jerry Weinberg
+
 ## A bit of history
 
-Cem Kaner had coined a term—”exploratory testing”—to represent the opposite of scripted testing.
+Cem Kaner had coined a term — ”exploratory testing”—to represent the opposite of scripted testing.
 
-1996, first testing class called Exploratory Testing, James Bach
-1999, 2000, Microsoft started with Session-Based Test Management
+- 1996, first testing class called Exploratory Testing, James Bach
+- 1999, 2000, Microsoft started with Session-Based Test Management
+
++++
+## A bit of history
 
 Exploratory testing is unscripted, unrehearsed testing. Its effectiveness depends on several intangibles: the skill of the tester, their intuition, their experience, and their ability to follow hunches.
+
+## Organize Exploratory testing?
 
 Session-Based Testing
 - structured exploratory testing
@@ -25,7 +42,7 @@ Charter is mission for the session, contract.
 
 ---
 
-### Organize Exploratory testing?
+## Organize Exploratory testing?
 
 ![](https://lh6.googleusercontent.com/OpMOeoF5eo89g7y2xJH6WVALewHHJ3E5mV6Gwvqvbg6d0P8FMFLhzCZOVvtBdvxm6s6TPbSFwzVk3-E=w1920-h1032-rw)
 
@@ -82,8 +99,8 @@ What is the goal you want to achieve with the test session?
 
 * Intake Session - Gather information you need from project stakeholders
 * Survey Session - Learn the application, collection the information which help you to make a test approach
-* Setup Session - Create a test infrastracture needed for testing the application
-* Analysis Session - Get ideas for deep coverage, risk assesment, acceptance criteria
+* Setup Session - Create a test infrastructure needed for testing the application
+* Analysis Session - Get ideas for deep coverage, risk assessment, acceptance criteria
 * Deep Coverage Session - Describe details of your tests
 * Closure Session - Get ready to release
 
@@ -110,9 +127,7 @@ What is the goal you want to achieve with the test session?
 
 * Session tester
 * TestRail
-* Evernote 
+* Evernote
 * Testnote.io
 * Exploratory testing chrome extension
 * Rapid Reporter
-
-
