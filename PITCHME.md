@@ -20,6 +20,8 @@ Jerry Weinberg
 Let us not forget that complex logical operations occur through a combination of simple instructions executed by the computer and not by the computer logically deducing or inferring what is desired.”
 Jerry Weinberg
 
+---
+
 ## A bit of history
 
 Cem Kaner had coined a term — ”exploratory testing”—to represent the opposite of scripted testing.
