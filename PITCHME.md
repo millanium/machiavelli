@@ -4,6 +4,7 @@
 ## Exploratory testing?
 
 "It is, of course, difficult to have the machine check how well the program matches the intent of the programmer without giving a great deal of information about that intent.
+
 Jerry Weinberg
 
 +++
@@ -11,6 +12,7 @@ Jerry Weinberg
 ## Exploratory testing?
 
 If we had some simple way of presenting that kind of information to the machine for checking, we might just as well have the machine do the coding.
+
 Jerry Weinberg
 
 +++
@@ -18,6 +20,7 @@ Jerry Weinberg
 ## Exploratory testing?
 
 Let us not forget that complex logical operations occur through a combination of simple instructions executed by the computer and not by the computer logically deducing or inferring what is desired.”
+
 Jerry Weinberg
 
 ---
@@ -38,7 +41,7 @@ Exploratory testing is unscripted, unrehearsed testing. Its effectiveness depend
 
 ## Structure
 
-Session-Based Testing
+ Session-Based Testing
 - structured exploratory testing
 - testing in sessions called charters 45min
 
@@ -56,8 +59,8 @@ Charter is mission for the session, contract.
 Thread-Based Testing
 
 Organized threads of activity
-Form of thread, thread is not necessarily a session
-Thread is a set of one or more activities intended to solve a problem or achieve an objective.
+* Form of thread, thread is not necessarily a session
+* Thread is a set of one or more activities intended to solve a problem or achieve an objective.
 
 +++
 
@@ -78,10 +81,7 @@ Thread is a set of one or more activities intended to solve a problem or achieve
 * Transaction Flow Testing
 * Essential Performance Testing
 * Safety Testing
-   - warnings and errors FRS review
-   - tool for forcing errors
 * Compliance Testing
-* Test Protocol V1.0 doc.
 
 +++
 
@@ -96,9 +96,7 @@ Thread is a set of one or more activities intended to solve a problem or achieve
 
 ---
 
-## Generate test charters?
-
-What is the goal you want to achieve with the test session?
+## Test charters goal?
 
 * Intake Session - Gather information you need from project stakeholders
 * Survey Session - Learn the application, collection the information which help you to make a test approach
