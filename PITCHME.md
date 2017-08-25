@@ -25,7 +25,7 @@ Charter is mission for the session, contract.
 
 ---
 
-## How to organize Exploratory testing?
+### How to organize Exploratory testing?
 
 CHARTER
 -----------------------------------------------
