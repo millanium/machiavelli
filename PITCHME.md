@@ -90,8 +90,6 @@ Organized threads of activity
 
 ---
 
-## Test charters goal?
-
 * Intake Session - Gather information you need from project stakeholders
 * Survey Session - Learn the application, collection the information which help you to make a test approach
 * Setup Session - Create a test infrastructure needed for testing the application
