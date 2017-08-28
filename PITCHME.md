@@ -39,9 +39,8 @@ Exploratory testing is unscripted, unrehearsed testing. Its effectiveness depend
 
 ---
 
-## Structure
+## Session-Based Testing
 
- Session-Based Testing
 - structured exploratory testing
 - testing in sessions called charters 45min
 
@@ -53,9 +52,7 @@ Charter is mission for the session, contract.
 
 ---
 
-## Structure
-
-Thread-Based Testing
+## Thread-Based Testing
 
 Organized threads of activity
 * Form of thread, thread is not necessarily a session
@@ -65,33 +62,31 @@ Organized threads of activity
 
 ## Test Facilities
 
-* Power meter calibration method
-* Backup test jig validation
-* Create standard test images
+* Test data
+* Environment
+* Version
+
 
 +++
 
 ## Test Strategy
 
-* Accuracy Testing
-* Sampling strategy
-* Preliminary-testing
-* Log file analysis program
-* Transaction Flow Testing
-* Essential Performance Testing
-* Safety Testing
+* Acceptance Testing
+* Portability Testing
+* Performance Testing
+* Security Testing
 * Compliance Testing
 
 +++
 
 ## Test Management
 
-* Change protocol definition
-* Build protocol definition
-* Test cycle protocol definition
-* Bug reporting protocol definition
+* Change definition
+* Build  definition
+* Test cycle  definition
+* Bug reporting
 * Bug triage
-* Fix verifications
+* Bug fixes
 
 ---
 
@@ -125,7 +120,7 @@ Organized threads of activity
 
 ## What tools to use?
 
-* Session tester
+* Trello
 * TestRail
 * Evernote
 * Testnote.io
