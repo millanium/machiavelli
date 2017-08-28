@@ -49,7 +49,7 @@ Charter is mission for the session, contract.
 
 +++
 
-![](https://lh6.googleusercontent.com/JDMLKBueg0YcWatwAj4yOBe83_GRLKgU1q-_90KH5TbQ1WYBe-71eetxqM6RMNB4cElJhicgpPVqD5M=w1920-h1032-rw)
+![](https://lh4.googleusercontent.com/nCTbiXi6nO-T9cePeHwlZfeQ9TrD57LQFmsdacMa-ZYmntvZFmkC7K3i-6q2JenPKBw9wAytUuWFG8c=w1920-h1032-rw)
 
 ---
 
